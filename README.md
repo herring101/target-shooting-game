@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎯 Target Shooting Game
+
+This is a [Next.js](https://nextjs.org) project featuring a Canvas 2D target shooting game, bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Game Features
+
+- 🎯 Interactive target shooting with Canvas 2D
+- ⏰ 30-second timer challenge
+- 🎮 Real-time score calculation
+- 🖱️ Click-based hit detection
+- 📱 Responsive design with Tailwind CSS
 
 ## Getting Started
 
